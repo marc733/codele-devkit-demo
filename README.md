@@ -8,3 +8,5 @@ This application used to demo C# Dev Kit as part of a [multi-part .NET beginner 
 * Episode 6: **testing**
 
 To run the complete version of the application, checkout branch **finalProduct**.
+
+coucou
