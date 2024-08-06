@@ -30,5 +30,6 @@ public class CounterCSharpTests : BunitTestContext
 
 		// Assert that the counter was incremented
 		cut.Find("p").MarkupMatches("<p>Current count: 1</p>");
+		//comments
 	}
 }
